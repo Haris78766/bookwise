@@ -2,6 +2,8 @@
 
 A modern, responsive React web application that allows users to search, explore, and track books from across the globe using the **Open Library REST API**, manage a personal reading list with local persistence, and visualize reading habits with interactive charts.
 
+🔗 **Live Deployment:** [https://Haris78766.github.io/bookwise/](https://Haris78766.github.io/bookwise/)
+
 ---
 
 ## 🌟 Key Application Features
